@@ -36,6 +36,7 @@
       },
       {
         "tab": "Use cases",
+        "group": "Getting started on YWH",
         "pages": ["Launch your first program",
         "Invite hunters",
         "Manage your wallet"
