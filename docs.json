@@ -36,6 +36,7 @@
       },
       {
         "tab": "API Reference",
+        "openapi": "https://api.yeswehack.com/doc.json"
         "groups": [
           {
             "group": "API Documentation",
