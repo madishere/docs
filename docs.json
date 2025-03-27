@@ -35,6 +35,13 @@
         ]
       },
       {
+        "tab": "Use cases",
+        "pages": ["Launch your first program",
+        "Invite hunters",
+        "Manage your wallet"
+      ]
+      }
+      {
         "tab": "API Reference",
         "openapi": "https://api.yeswehack.com/doc.json"
       }
